@@ -5,6 +5,7 @@ Olá! Me chamo Sharon Daiane de Azevedo, tenho 24 anos. Sou desenvolvedora inici
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shazevedoo&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
  
+<br>
 
 <div>
 <a href="https://instagram.com/shazevedoo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
