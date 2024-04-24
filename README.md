@@ -1,4 +1,4 @@
-Olá! Me chamo Sharon Daiane de Azevedo, tenho 24 anos. Sou desenvolvedora iniciante Front-end com especialidade em HTML, CSS e JavaScript. Iniciei meus estudos por meio da plataforma Alura e atualmente, estou no 2º período de Análise e Desenvolvimento de Sistemas na Estácio.
+Olá! Me chamo Sharon Daiane de Azevedo, tenho 24 anos. Sou desenvolvedora iniciante Front-end com especialidade em HTML, CSS e JavaScript. Iniciei meus estudos por meio da plataforma Alura e atualmente, estou no 3º semestre de Análise e Desenvolvimento de Sistemas na Estácio.
 
  <div>
    <a href="https://github.com/Shazevedoo">
